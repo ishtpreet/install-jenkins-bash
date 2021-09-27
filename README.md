@@ -2,7 +2,6 @@
 
 Steps are as follows:-
 
-1. git clone https://github.com/ishtpreet/install-jenkins-bash.git
-2. cd install-jenkins-bash
-3. sudo chmod +x jenkins.sh
-4. sudo ./jenkins.sh
+1. wget https://raw.githubusercontent.com/ishtpreet/install-jenkins-bash/master/jenkins.sh
+2. sudo chmod +x jenkins.sh
+3. sudo ./jenkins.sh
